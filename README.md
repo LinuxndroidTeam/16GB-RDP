@@ -47,3 +47,10 @@ This Course is built for both Educational and Internal use ONLY.</b>
 
 [![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://shop-linuxndroid.in)
 
+
+
+
+
+<b>Tags ignore</b>
+#windows rdp, #freerdp, #rdpfree, #free16gb rdp, #free windows 16gb rdp, #free rdp 16gbram, #windows rdp 16gb ram, #best hacking rdp, #rdp for hacking, #hacking windows rdp, #cheap Windows rdp, #cheap Rdp,
+
