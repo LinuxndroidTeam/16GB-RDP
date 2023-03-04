@@ -11,7 +11,7 @@
 - OS: Windows 10
 - Port Forwarding Enabled
 - Static IP
-- Data Transfer: 8 TB
+- Data Transfer: 10 TB
 - Port Speed: 1-10 Gbps
 - Free Backup: 3 Copy
 - Setup Fee ₹0.00 INR
