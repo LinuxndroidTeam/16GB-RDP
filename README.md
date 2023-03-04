@@ -8,13 +8,14 @@
 - RAM: 16 GB
 - CPU: 4 Core
 - Disk: 100 GB
+- OS: Windows 10
 - Port Forwarding Enabled
 - Static IP
 - Data Transfer: 8 TB
 - Port Speed: 1-10 Gbps
 - Free Backup: 3 Copy
 - Setup Fee ₹0.00 INR
-- Monthly: 3,399 INR
+- Monthly: 3,599 INR
 - Made in INDIA 🇮🇳
 
 ## Checkout [RDP](https://shop-linuxndroid.in/product/16gb/)
